@@ -17,4 +17,4 @@ df.select(max("Adj_Close"), max("Volume"))\
 
 # COMMAND ----------
 
-
+print('ciao')
